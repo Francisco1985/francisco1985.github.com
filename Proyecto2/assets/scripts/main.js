@@ -27,7 +27,7 @@ closes.forEach(function(close){
         content.classList.add("fadeOutRight");
         setTimeout(() => {
             
-         location.href="file:///C:/Users/Mar%C3%ACacarolina/Documents/aiep/Proyecto2/index.html";  
+         location.href="https://francisco1985.github.io/Proyecto2/";  
         }, 1000);
 
         
